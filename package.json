@@ -1,0 +1,16 @@
+{
+  "name": "filipe-landing-page",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/register": "^7.21.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-if": "^3.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.62.1"
+  },
+  "dependencies": {}
+}
